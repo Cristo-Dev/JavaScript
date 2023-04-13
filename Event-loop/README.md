@@ -1,8 +1,8 @@
-## Learn JavaScript and explore the Event Loop.
+## Learn how the JavaScript Event Loop work
 
-If you're interested in learning JavaScript, in the "learn" folder you'll find a project where you can learn JavaScript without any fluff. You'll learn everything from fundamentals to more advanced techniques.
+In the "Event-loop" folder of this repository, you will find a project that will allow you to understand how the JavaScript Event Loop works. With this project, you will be able to learn how the Event Loop manages and processes tasks in the background while the main code keeps running.
 
-On the other hand, if you want to dive deeper into how the JavaScript Event Loop works, in the "Event-loop" folder you'll find a project that will help you understand it. You'll be able to understand how the Event Loop manages and processes background tasks while the main code continues to execute.
+Additionally, you will be able to learn the most important JavaScript functions, such as async/await, promises, callbacks, among others. This project will help you understand how these functions work and how you can apply them to your own projects.
 
 ---
 
